@@ -1,0 +1,1 @@
+Project OneMain Question:  How does median household income per LARGE FILE STORAGE In command line, open your repoThen follow this:git lfs installgit lfs track "*.csv"git add .gitattributesGit commit -m “message here”Git push origin branch_name
