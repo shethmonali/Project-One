@@ -4,8 +4,11 @@ Main Question:  How does median household income per capita affect the count of 
                 Do resturants in zip codes where the per capita income is higher have higher rankings as well?
                 How do population dempgraphics affect Yelp review count and ratings?
                 Is there a differnce in review patterns by race? By age?
-                
-          
+
+Per capita income vs Yelp Review Count: Yelp Rating: Ken
+Ethnicity vs Yelp Review Count: Yelp Rating: Sarah
+Age vs Everything else: Monali
+Alan: Presentation items i.e. Further research
 
 
 
