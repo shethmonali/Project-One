@@ -1,0 +1,26 @@
+Project One
+
+Main Question:  How does median household income per capita affect the count of Yelp reviews and the subsequent ratings
+                Do resturants in zip codes where the per capita income is higher have higher rankings as well?
+                How do population dempgraphics affect Yelp review count and ratings?
+                Is there a differnce in review patterns by race? By age?
+                
+          
+
+
+
+LARGE FILE STORAGE 
+
+In command line, open your repo
+Then follow this:
+
+git lfs install
+
+git lfs track "*.csv"
+
+
+git add .gitattributes
+
+Git commit -m "message here"
+
+Git push origin branch_name
